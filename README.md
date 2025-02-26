@@ -1,1 +1,3 @@
-# pixel_art
+This is a simple pixel art editor that I made with Pygame! I followed a YouTube video for the basic parts, then modified it a bit to my own liking. Developing this editor is just a way for me to get used to Python, as it's probably my favourite language at the moment.
+
+The functionality is quite basic, there are a variety of different colours on the right hand side. The user can click on any colour to select it, then can left-click and drag on to the canvas area to start drawing! I added a feature so that the brush size can be adjustable between 1x1 and 5x5. To undo your last drawing action, press Ctrl + Z, and to redo an action that was undone, press Ctrl + V. Also, you can press  Ctrl + S to save your drawing and it will be saved in the same directory where the program is running.  Ctrl + L allows you to load your previously saved artwork if it's in the directory.
